@@ -1,8 +1,3 @@
-﻿//Zia Formuly
-//ICS 3U1
-//June 17, 2019
-//Final Game Project
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
